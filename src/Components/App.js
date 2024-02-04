@@ -1,6 +1,7 @@
 import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 
 import  Navbar from './Navbar';
+import Body from './Body';
 import { Analytics, Dashboard, Overview, Statistics} from './index';
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
     <div className="App">
       <Router>
         <Navbar/>
+        <Body/>
         {routes}
       </Router>
     </div>

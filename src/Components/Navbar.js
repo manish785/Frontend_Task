@@ -45,7 +45,7 @@ const Navbar = () => {
                     <li className='ml-12 mt-[-1px]'>
                         <img 
                         className='h-[26px] w-[26px]'
-                        src='https://cdn-icons-png.flaticon.com/512/3682/3682281.png'
+                        src='https://www.svgrepo.com/show/381886/user-profile-person.svg'
                         alt='user-profile-icon'
                         />
                     </li>

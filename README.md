@@ -1,4 +1,4 @@
-1.HomePage of the WASSERSTOFF.
+1. HomePage of the WASSERSTOFF.
 
 2. Technology stack/libraries - React JS
 
